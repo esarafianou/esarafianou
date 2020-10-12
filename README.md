@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi!
 
-<!--
-**esarafianou/esarafianou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eva, a Product Security Engineer with a deep interest in Node.js and Open
+Source Security. I work at [Auth0](https://auth0.com/) as a Senior Product
+Security Engineer. an identity platform for application builders. I'm
+passionate about building secure applications, working together with Engineers
+to promote security best practices without hindering the User Experience.    
 
-Here are some ideas to get you started:
+### Open Source Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a member of the Node.js [Ecosystem
+Security](https://github.com/nodejs/security-wg) Working Group under the
+OpenJS Foundation and a member of
+the [Vulnerability
+Disclosures](https://github.com/ossf/wg-vulnerability-disclosures) Working Group under the Open Source Security Foundation
+(OSSF).
+
+### Get in touch
+
+The best way to get in touch is to [follow me on
+Twitter](https://twitter.com/evileve6). 
